@@ -1,6 +1,6 @@
 # Aryan Takalkar
 
-Electronics & Computer Science Engineering Student at SIES GST
+Electronics & Computer Science Engineering Student at Mumbai University
 
 Research Interests:
 - CubeSat Systems
